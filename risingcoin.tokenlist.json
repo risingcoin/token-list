@@ -1,0 +1,103 @@
+{
+  "name": "Rising Coin",
+  "logoURI": "https://raw.githubusercontent.com/risingcoin/token-list/main/assets/risingcoin.png",
+  "keywords": [
+    "risingcoin"
+  ],
+  "timestamp": "2021-07-01T00:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x2b9b4826552a2cf5FB54023c4C49F5d71667bE3c",
+      "name": "Rising Coin",
+      "symbol": "RC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/risingcoin/token-list/main/assets/risingcoin.png"
+    },
+    {
+      "chainId": 3,
+      "address": "0x2b9b4826552a2cf5FB54023c4C49F5d71667bE3c",
+      "name": "Rising Coin",
+      "symbol": "RC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/risingcoin/token-list/main/assets/risingcoin.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0x2b9b4826552a2cf5FB54023c4C49F5d71667bE3c",
+      "name": "Rising Coin",
+      "symbol": "RC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/risingcoin/token-list/main/assets/risingcoin.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x2b9b4826552a2cf5FB54023c4C49F5d71667bE3c",
+      "name": "Rising Coin",
+      "symbol": "RC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/risingcoin/token-list/main/assets/risingcoin.png"
+    },
+    {
+      "chainId": 42,
+      "address": "0x2b9b4826552a2cf5FB54023c4C49F5d71667bE3c",
+      "name": "Rising Coin",
+      "symbol": "RC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/risingcoin/token-list/main/assets/risingcoin.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x2b9b4826552a2cf5FB54023c4C49F5d71667bE3c",
+      "name": "Rising Coin",
+      "symbol": "RC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/risingcoin/token-list/main/assets/risingcoin.png"
+    },
+    {
+      "chainId": 97,
+      "address": "0x81de00c756528df1d628c684bc68b532cca2ca3b",
+      "name": "Rising Coin",
+      "symbol": "RC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/risingcoin/token-list/main/assets/risingcoin.png"
+    },
+    {
+      "chainId": 97,
+      "address": "0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7",
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x2b9b4826552a2cf5FB54023c4C49F5d71667bE3c",
+      "name": "Rising Coin",
+      "symbol": "RC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/risingcoin/token-list/main/assets/risingcoin.png"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x2b9b4826552a2cf5FB54023c4C49F5d71667bE3c",
+      "name": "Rising Coin",
+      "symbol": "RC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/risingcoin/token-list/main/assets/risingcoin.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0xB5d2f6B49B19b50E56d494a2a84e585d1aA6f930",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/risingcoin/token-list/main/assets/usdt.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 4
+  }
+}
